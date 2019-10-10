@@ -1,0 +1,14 @@
+jenis Web = sim sistem informasi management => aplikasi dgn private ip.
+
+===
+
+Subrutin = Procedure & Function.
+
+Subrutin adalah kumpulan perintah yang ditujukan untuk menangani suatu tindakan dengan tujuan untuk memudahkan pembuatan program mengingat subrutin bisa dipanggil berkali-kali dalam suatu program. Subrutin melibatkan argument yang dipakai sebagai upaya untuk menyertakan suatu nilai dari luar.
+
+Atau sebuah sekuensi dari instruksi program yang menampilkan tugas spesifik, dikemas sebagai sebuah unit. Unit ini kemudian dapat dipakai dalam program-program saat tugas tertentu harus ditampilkan.
+
+===
+Belajar mengidentifikasi masalah dari error saat tidak dikasih titik koma.
+===
+
